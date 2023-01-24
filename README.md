@@ -7,6 +7,8 @@ Integrantes:
 - Juan Ignacio Borda
 - Ignacio Villarruel
 
+
+https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit#heading=h.nm1zk6pu7e78
 [Link a la Consigna]([https://docs.google.com/document/d/1BDpr5lfzOAqmOOgcAVg6rUqvMPUfCpMSz1u1J_Vjtac/edit](https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit#heading=h.nm1zk6pu7e78))
 
 ## Vistazo general
